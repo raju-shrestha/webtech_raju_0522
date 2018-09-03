@@ -1,0 +1,42 @@
+#wrapper{
+    width: 980px;
+    height: 500px;
+    border: 1px solid #FF0000;
+    margin: 0px auto;
+    background: lightblue;
+}
+h1{
+    margin: 0px;
+    padding: 0px;
+    background: chocolate;
+    color: black;
+    text-align: center;
+}
+
+#maincontent{
+    height: 400px;
+    width: 980px;
+    background: crimson;
+}
+
+.left{
+    float:left;
+    height: 350px;
+    width:400px;
+    padding: 10px;
+    margin: 10px;
+    background: burlywood;
+    color: black;
+}
+
+.right{
+    float:right;
+    height: 350px;
+    width:400px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid blue;
+    background: burlywood;
+}
+
+
